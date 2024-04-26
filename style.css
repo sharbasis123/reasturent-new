@@ -1,5 +1,9 @@
 body{
-    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    background-image: url('https://i.ibb.co/QjN5dwS/abstract-textured-backgound.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: antiquewhite;
     font-family: 'Times New Roman', Times, serif;
 }
 .mean{
